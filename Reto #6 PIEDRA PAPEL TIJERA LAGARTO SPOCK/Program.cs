@@ -16,7 +16,7 @@ namespace Reto__6_PIEDRA_PAPEL_TIJERA_LAGARTO_SPOCK
         * - Debes buscar información sobre cómo se juega con estas 5 posibilidades.
         */
 
-        public enum CharcatersGames { Piedra,Papel,Tijera,Lagarto,Spock };
+        public enum CharcatersGames { Piedra, Papel, Tijera, Lagarto, Spock };
         public static int _Player1Count;
         public static int _Player2Count;
 

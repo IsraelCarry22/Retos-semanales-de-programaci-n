@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB65CC80-7829-4D69-A95C-5BCCBEB0D781}</ProjectGuid>
+    <ProjectGuid>{353792A6-5F46-4B54-91A9-CF27FD7A8953}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1__Reto</RootNamespace>
-    <AssemblyName>1# Reto</AssemblyName>
+    <RootNamespace>Reto__5_HOLA_MUNDO</RootNamespace>
+    <AssemblyName>Reto #5 HOLA MUNDO</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{176F976B-B3EE-402C-AD19-D1CBCB953A99}</ProjectGuid>
+    <ProjectGuid>{E5E18677-DB68-46FD-B1E3-B68E38CFC210}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_6_Reto</RootNamespace>
-    <AssemblyName>6#Reto</AssemblyName>
+    <RootNamespace>Reto__4_PRIMO_FIBONACCI_Y_PAR</RootNamespace>
+    <AssemblyName>Reto #4 PRIMO FIBONACCI Y PAR</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3481857C-8342-4AAC-AD73-8839257DCD34}</ProjectGuid>
+    <ProjectGuid>{7F30FDEA-6CB7-4F5A-8A6F-BA005F0EE55C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2_Reto</RootNamespace>
-    <AssemblyName>2#Reto</AssemblyName>
+    <RootNamespace>Reto__3_EL_GENERADOR_DE_CONTRASEÑAS</RootNamespace>
+    <AssemblyName>Reto #3 EL GENERADOR DE CONTRASEÑAS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{217C82E0-1EA7-4ABF-A3D1-A8E15BFE694F}</ProjectGuid>
+    <ProjectGuid>{5D52ABEB-5AC8-4BB4-80CC-DF5BFBC94259}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_5_Reto</RootNamespace>
-    <AssemblyName>5#Reto</AssemblyName>
+    <RootNamespace>Reto__1_EL_LENGUAJE_HACKER</RootNamespace>
+    <AssemblyName>Reto #1 EL LENGUAJE HACKER</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

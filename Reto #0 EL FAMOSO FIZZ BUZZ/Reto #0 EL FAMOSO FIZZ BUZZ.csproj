@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55ABDF69-2A93-4063-A7FA-81AFEFAB54C8}</ProjectGuid>
+    <ProjectGuid>{40CBA556-E990-47F1-9C58-8A493B2BADE6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_4_Reto</RootNamespace>
-    <AssemblyName>4#Reto</AssemblyName>
+    <RootNamespace>Reto__0_EL_FAMOSO_FIZZ_BUZZ</RootNamespace>
+    <AssemblyName>Reto #0 EL FAMOSO FIZZ BUZZ</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

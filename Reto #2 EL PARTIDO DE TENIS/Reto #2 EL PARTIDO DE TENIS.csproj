@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B50D332F-7C82-489F-9EBE-F525B5811581}</ProjectGuid>
+    <ProjectGuid>{A26BA6BA-D1D6-4D97-9334-9C24150502F2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_3_Reto</RootNamespace>
-    <AssemblyName>3#Reto</AssemblyName>
+    <RootNamespace>Reto__2_EL_PARTIDO_DE_TENIS</RootNamespace>
+    <AssemblyName>Reto #2 EL PARTIDO DE TENIS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
